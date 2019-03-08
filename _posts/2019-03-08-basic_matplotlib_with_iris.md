@@ -94,7 +94,8 @@ plt.show() # 일반 파이썬 인터프리터로 가동되는 경우를 대비�
 ```
 
 
-![png](output_10_0.png)
+![output_10_0](https://user-images.githubusercontent.com/41497195/54014624-afc59a80-41c0-11e9-850f-48a8c88ff983.png)
+
 
 
 ### STEP 2. 점 찍기
@@ -118,7 +119,8 @@ plt.plot(sepal_length ,'o')
 
 
 
-![png](output_12_1.png)
+![output_12_1](https://user-images.githubusercontent.com/41497195/54014651-c3710100-41c0-11e9-97eb-2e97126dfdba.png)
+
 
 
 ### STEP 3. 점의 형태 변경해 보기
@@ -135,8 +137,9 @@ plt.plot(sepal_length , '*')
 
 
 
+![output_14_1](https://user-images.githubusercontent.com/41497195/54014673-d84d9480-41c0-11e9-9959-45e212cf3cba.png)
 
-![png](output_14_1.png)
+
 
 
 ### STEP 4. 점의 크기 조정해 보기
@@ -156,7 +159,7 @@ plt.plot(sepal_length , 'o ',markersize = 8)
 
 
 
-![png](output_16_1.png)
+![output_16_1](https://user-images.githubusercontent.com/41497195/54014705-e996a100-41c0-11e9-882e-a4dce73f9aa4.png)
 
 
 이 밖에도 직선의 두께, 색깔 역시 조절할 수 있습니다.
@@ -177,7 +180,7 @@ plt.plot(sepal_length, 'g', linewidth = 10)
 
 
 
-![png](output_18_1.png)
+![output_18_1](https://user-images.githubusercontent.com/41497195/54014731-f3b89f80-41c0-11e9-82fa-6a7ee5b73e34.png)
 
 
 ### STEP 5.그래프/X,Y축에 제목 넣기
@@ -206,8 +209,8 @@ plt.title('sepal_length')
 
 
 
+![output_21_1](https://user-images.githubusercontent.com/41497195/54014721-f2877280-41c0-11e9-9440-38ecc807b135.png)
 
-![png](output_21_1.png)
 
 
 ### STEP 6. 선 추가(가로선/세로선)
@@ -226,7 +229,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![output_24_0](https://user-images.githubusercontent.com/41497195/54014722-f2877280-41c0-11e9-85dd-e275a2d7e34b.png)
 
 
 ### STEP 7. 선 추가 (1차함수) 
@@ -265,8 +268,7 @@ plt.plot(x,y)
 
 
 
-![png](output_27_1.png)
-
+![output_27_1](https://user-images.githubusercontent.com/41497195/54014723-f2877280-41c0-11e9-8ddd-1a9ec382ac6b.png)
 
 
 ```python
@@ -286,7 +288,7 @@ plt.plot(x,y)
 
 
 
-![png](output_28_1.png)
+![output_28_1](https://user-images.githubusercontent.com/41497195/54014725-f2877280-41c0-11e9-85ca-211075c7786d.png)
 
 
 ### STEP 8. 선을 추가 해보자(회귀식 사용)
@@ -377,8 +379,8 @@ plt.plot([4,10],[4*B +c ,8*B+ c],'g')
 
 
 
+![output_35_1](https://user-images.githubusercontent.com/41497195/54014726-f3200900-41c0-11e9-8fa6-29b148e7109e.png)
 
-![png](output_35_1.png)
 
 
 ### STEP 9. 여러 개의 그래프를 한 화면에 그려보자
@@ -423,7 +425,7 @@ plt.plot(petal_width)
 
 
 
-![png](output_38_1.png)
+![output_38_1](https://user-images.githubusercontent.com/41497195/54014727-f3200900-41c0-11e9-9a49-00b85e85556c.png)
 
 
 ### STEP 10. 그래프 겹쳐 그리기
@@ -449,7 +451,7 @@ plt.show()
 ```
 
 
-![png](output_41_0.png)
+![output_41_0](https://user-images.githubusercontent.com/41497195/54014728-f3b89f80-41c0-11e9-9caa-a0c68d74953c.png)
 
 
 ### STEP 11 . 그래프를 코드를 이용해 자동으로 저장해 보자
@@ -463,7 +465,7 @@ plt.savefig('sl.png',dpi = 100)#dpi는 그림의 크기
 ```
 
 
-![png](output_43_0.png)
+![output_43_0](https://user-images.githubusercontent.com/41497195/54014729-f3b89f80-41c0-11e9-9c2e-1039e7715bf7.png)
 
 
 
@@ -482,5 +484,5 @@ plt.axis('off')#저장했던 그래프 위로 새로운 그래프의 좌표축�
 
 
 
-![png](output_44_1.png)
+![output_44_1](https://user-images.githubusercontent.com/41497195/54014730-f3b89f80-41c0-11e9-8368-7fd187f31e9d.png)
 
