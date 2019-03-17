@@ -12,14 +12,10 @@ SK data hub는 SK Telecom에서 제공하는 여러 데이터가 모여있는 �
 
 같이 데이터 분석 스터디를 진행하시는 분의 블로그에서 아이디어를 얻었습니다.
 원글은 R이며 저는 python으로 진행할 것입니다.
-블로그의 주소는 다음과 같습니다.
-
-https://unfinished-god.com/2019/02/25/%EC%84%9C%EC%9A%B8%EC%8B%9C-%EB%A8%B9%EA%B1%B0%EB%A6%AC-%EB%B6%84%EC%84%9D-1%EC%9B%94-%EC%B9%98%ED%82%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/
+블로그의 주소는 [다음](https://unfinished-god.com/2019/02/25/%EC%84%9C%EC%9A%B8%EC%8B%9C-%EB%A8%B9%EA%B1%B0%EB%A6%AC-%EB%B6%84%EC%84%9D-1%EC%9B%94-%EC%B9%98%ED%82%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/).과 같습니다.
 
 
-데이터는 다음의 주소에서 다운받으실 수 있습니다.
-
-https://www.bigdatahub.co.kr/product/view.do?pid=1002028
+데이터는 [다음](https://www.bigdatahub.co.kr/product/view.do?pid=1002028).의 주소에서 다운받으실 수 있습니다.
 
 
 
@@ -350,9 +346,8 @@ df.isnull()
 df.isnull.sum()
 :각 column에 대한 null개수
 
-아래의 링크를 참조하면 됩니다.
+아래의 [링크](https://chartio.com/resources/tutorials/how-to-check-if-any-value-is-nan-in-a-pandas-dataframe/).를 참조하면 됩니다.
 
-https://chartio.com/resources/tutorials/how-to-check-if-any-value-is-nan-in-a-pandas-dataframe/
 
 
 
@@ -819,8 +814,7 @@ groupedBysoccer.sum() #error
 여기서는 soccer_frame의 date와 동일한 df에 있는 date를 찾고 싶은 것입니다.
 이는 soccer_frame의 date와 동일한 row만을 필터링 할 수 있다는 의미입니다.
 
-자세한 자료는 다음을 참조하시면 됩니다.
-https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/
+자세한 자료는 [다음](https://cmdlinetips.com/2018/02/how-to-subset-pandas-dataframe-based-on-values-of-a-column/).을 참조하시면 됩니다.
 
 
 ```python
