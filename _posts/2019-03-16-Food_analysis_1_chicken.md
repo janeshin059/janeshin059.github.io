@@ -593,7 +593,7 @@ df.duplicated().sum() # 어떤 data도 똑같지 않습니다
 -> 그룹별 집계 결과를 하나로 합치는 combine단계를 거치게 됩니다.
 (split->apply function ->combine)
 
-<이미지 첨부>
+
 
 더 자세한 내용은
 https://rfriend.tistory.com/383
