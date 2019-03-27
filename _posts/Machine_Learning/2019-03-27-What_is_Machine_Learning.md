@@ -1,6 +1,6 @@
 This post is from Coursera's Machine Learning Course (by Andrew Ng) from Stanford Univ.
 
-## What is Machine Learnig?
+# What is Machine Learning?
 
 
 ML definition:
@@ -23,7 +23,7 @@ ML definition:
   so, computer program is learn from E to do T  
   and the program improves with performance measur P
 	
-## Machine learning algorithms:
+# Machine learning algorithms:
 
 there are two types of machine learning algorithms.
 -> supervised learning
@@ -32,7 +32,7 @@ there are two types of machine learning algorithms.
 Others : Reinforcement learning, recommender systems
 
 
-### 1. Supervised Learning
+## 1. Supervised Learning
 
 #### "right answers"given
 we gave a data set of houses  
