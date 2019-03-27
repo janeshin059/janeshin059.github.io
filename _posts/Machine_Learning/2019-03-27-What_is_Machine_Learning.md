@@ -46,10 +46,10 @@ the task: "just produce more of these right answers"
 
 <img width="456" alt="housing2" src="https://user-images.githubusercontent.com/41497195/55059259-d84eff00-50b1-11e9-9efa-035d1a7f23d0.PNG">
 
-x라는 값에 대해서 y라는 값을 어떤 연속적인 형태로 나타낼 수 있는 것을 Linear regression이라고 표현합니다. PRE
+- x라는 값에 대해서 y라는 값을 어떤 연속적인 형태로 나타낼 수 있는 것을 Linear regression이라고 표현합니다. 
 
-##### predict results within a continuous output.
-##### so, we should map imput variables to some sort of continuous function.
+- predict results within a continuous output.
+- so, we should map imput variables to some sort of continuous function.
 
 ### 1-2) Classification (Logistic Regression)
 
