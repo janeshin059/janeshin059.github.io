@@ -32,5 +32,33 @@ there are two types of machine learning algorithms.
 Others : Reinforcement learning, recommender systems
 
 
+### 1. Supervised Learning
+
+#### "right answers"given
+we gave a data set of houses  
+and told it what is the right price.  
+
+the task: "just produce more of these right answers"  
+(x라는 값이 주어지고, y라는 값을 내놓아야 하는게 supervised learning)  
 
 
+#### 1-1) Regression(Linear regression)
+
+<img width="456" alt="housing2" src="https://user-images.githubusercontent.com/41497195/55059259-d84eff00-50b1-11e9-9efa-035d1a7f23d0.PNG">
+
+x라는 값에 대해서 y라는 값을 어떤 연속적인 형태로 나타낼 수 있는 것을 Linear regression이라고 표현합니다. PRE
+
+##### predict results within a continuous output.
+##### so, we should map imput variables to some sort of continuous function.
+
+#### 1-2) Classification
+
+<img width="588" alt="tumor" src="https://user-images.githubusercontent.com/41497195/55059268-dc7b1c80-50b1-11e9-8e60-5eb298ba6d09.PNG">
+<img width="328" alt="classification2" src="https://user-images.githubusercontent.com/41497195/55059273-de44e000-50b1-11e9-9669-7603c8b7b8b9.PNG">
+
+we should know that the tumor is malignant or not.
+So it is the classification.
+(there can be multiple types)
+
+##### trying to predict results in a discrete output.
+##### map input variables into discrete categories.
