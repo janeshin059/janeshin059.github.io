@@ -51,7 +51,7 @@ x라는 값에 대해서 y라는 값을 어떤 연속적인 형태로 나타낼 
 ##### predict results within a continuous output.
 ##### so, we should map imput variables to some sort of continuous function.
 
-### 1-2) Classification
+### 1-2) Classification (Logistic Regression)
 
 <img width="588" alt="tumor" src="https://user-images.githubusercontent.com/41497195/55059268-dc7b1c80-50b1-11e9-8e60-5eb298ba6d09.PNG">
 <img width="328" alt="classification2" src="https://user-images.githubusercontent.com/41497195/55059273-de44e000-50b1-11e9-9669-7603c8b7b8b9.PNG">
@@ -75,9 +75,9 @@ just have data with no labels..anything
 - no feedback based on the prediction results.
 
 
-### 2-1 ) Clustering
+### 2-1) Clustering
 google news
-### 2-1) 
+### 2-2) Non - Clustering
 cocktail party
 (find structure in a chaotic environment)
 
