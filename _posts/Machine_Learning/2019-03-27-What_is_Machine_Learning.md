@@ -62,3 +62,23 @@ So it is the classification.
 
 ##### trying to predict results in a discrete output.
 ##### map input variables into discrete categories.
+
+## 2.  Unsupervised Learning
+
+just have data with no labels..anything
+
+-> find something in the data
+그냥 던져주고 자..cluster해봐
+- allows us to approach problems with little or no idea what our results should look like.
+-  we can derive structures from data where we don't know the effect of the variables.
+
+- no feedback based on the prediction results.
+
+
+### 2-1 ) Clustering
+
+google news
+### 2-1) 
+cocktail party
+(find structure in a chaotic environment)
+
