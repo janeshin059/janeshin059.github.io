@@ -60,8 +60,8 @@ we should know that the tumor is malignant or not.
 So it is the classification.
 (there can be multiple types)
 
-##### trying to predict results in a discrete output.
-##### map input variables into discrete categories.
+- trying to predict results in a discrete output.
+-  map input variables into discrete categories.
 
 ## 2.  Unsupervised Learning
 
@@ -71,7 +71,6 @@ just have data with no labels..anything
 그냥 던져주고 자..cluster해봐
 - allows us to approach problems with little or no idea what our results should look like.
 -  we can derive structures from data where we don't know the effect of the variables.
-
 - no feedback based on the prediction results.
 
 
