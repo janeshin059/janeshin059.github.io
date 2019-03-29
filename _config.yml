@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jane Shin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "C:\Users\user\Desktop\janeshin\penguin.jpg"
   bio              : "busy univ student."
   location         : "Seoul,Korea"
   email            : janeshin059@gmail.com
