@@ -9,8 +9,8 @@ This post is from Coursera's Machine Learning Course (by Andrew Ng) from Stanfor
 
 (i): index
 
-x(i): input variables/features
-y(i): output variables/target -what we are trying to predict.
+x(i): input variables/features  
+y(i): output variables/target - what we are trying to predict.
 (x(i),y(i)):training example(s) which consist training set.
 
 ![training](https://user-images.githubusercontent.com/41497195/55250216-0474a680-5291-11e9-8f29-7c6d4ef10dd4.png)
@@ -35,7 +35,7 @@ a,b는 parameter들입니다. 이 parameter를 잘 설정해서 h(x)가 training
 
 그러면 h(x)의 accuracy를 어떻게 measure하느냐?  
 
-Cost Function을 통해 hypothesis function의 accuracy를 측정할 수 있습니다.  
+#### Cost Function을 통해 hypothesis function의 accuracy를 측정할 수 있습니다.  
 
 가장 유명한 cost function중의 하나는 "Squared error function", or "Mean Squared error function"입니다.
 
@@ -45,5 +45,7 @@ Cost Function을 통해 hypothesis function의 accuracy를 측정할 수 있습�
 이 function 은 h(x)와 y사이의 avg difference를 측정합니다.
 여기서 두 개의 세타 값들이 minimize되어야 합니다. 즉 difference가 최소화 되어야 하는 것이죠.
 <img width="211" alt="mse2" src="https://user-images.githubusercontent.com/41497195/55253530-f034a780-5298-11e9-8806-5e87ded4d16a.PNG">
+
+cost function을 통해 hypothesis function의 error를 최소화 하여 가장 적절한 모델을 찾는 것이 과제입니다.
 
 
