@@ -43,7 +43,8 @@ a,b는 parameter들입니다. 이 parameter를 잘 설정해서 h(x)가 training
 
 
 이 function 은 h(x)와 y사이의 avg difference를 측정합니다.
-여기서 두 개의 세타 값들이 minimize되어야 합니다. 즉 difference가 최소화 되어야 하는 것이죠.
+여기서 두 개의 세타 값들이 minimize되어야 합니다.  
+즉 difference가 최소화 되어야 하는 것이죠.
 <img width="211" alt="mse2" src="https://user-images.githubusercontent.com/41497195/55253530-f034a780-5298-11e9-8806-5e87ded4d16a.PNG">
 
 cost function을 통해 hypothesis function의 error를 최소화 하여 가장 적절한 모델을 찾는 것이 과제입니다.
