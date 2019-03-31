@@ -10,7 +10,7 @@ This post is from Coursera's Machine Learning Course (by Andrew Ng) from Stanfor
 (i): index
 
 x(i): input variables/features  
-y(i): output variables/target - what we are trying to predict.
+y(i): output variables/target - what we are trying to predict.  
 (x(i),y(i)):training example(s) which consist training set.
 
 ![training](https://user-images.githubusercontent.com/41497195/55250216-0474a680-5291-11e9-8f29-7c6d4ef10dd4.png)
