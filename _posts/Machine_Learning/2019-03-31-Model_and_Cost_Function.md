@@ -50,3 +50,4 @@ cost function을 통해 hypothesis function의 error를 최소화 하여 가장 
 <img width="211" alt="mse2" src="https://user-images.githubusercontent.com/41497195/55253530-f034a780-5298-11e9-8806-5e87ded4d16a.PNG">
 
 
+
